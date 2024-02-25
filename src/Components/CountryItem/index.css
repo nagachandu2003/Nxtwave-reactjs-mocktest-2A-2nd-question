@@ -1,0 +1,29 @@
+.list-item1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  color: white;
+  font-family: 'Roboto';
+  background-color: #1f1f2f;
+  border-bottom: 1px solid #334155;
+}
+.item-heading1 {
+  font-size: 15px;
+  color: #f8fafc;
+}
+.button1 {
+  cursor: pointer;
+  width: 100px;
+  padding: 8px;
+  border-radius: 2px;
+  border-width: 0;
+  background-color: #3b82f6;
+  color: white;
+  text-align: center;
+}
+.par1 {
+  color: #94a3b8;
+  width: 100px;
+  text-align: center;
+}
